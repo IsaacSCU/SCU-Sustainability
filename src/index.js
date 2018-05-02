@@ -6,6 +6,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>Our example form - Isaac</Text>
+
       </View>
     );
   }
